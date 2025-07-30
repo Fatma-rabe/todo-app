@@ -27,5 +27,5 @@ This app is designed to be easily extendable, with possible future features like
 Dark Mode support (already in progress 🌙)
 Task notifications and alerts
 Categories and tags for better organization
-Local database (e.g., Hive or SQLite) for persistent storage
+Local database for persistent storage
 Sync with Google Calendar or Cloud backup
